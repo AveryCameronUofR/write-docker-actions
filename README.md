@@ -1,3 +1,6 @@
+# Explanation
+Completed GitHub Learning Lab Course on Docker Actions
+
 # Welcome to your course 🎉
 
 ### Getting started
